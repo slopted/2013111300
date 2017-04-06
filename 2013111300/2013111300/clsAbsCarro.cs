@@ -8,6 +8,7 @@ namespace _2013111300
 {
     public abstract class clsAbsCarro
     {
+
         public abstract string NumSerieMotor { get; set; }
 
         public abstract string NumSerieChasis { get; set; }

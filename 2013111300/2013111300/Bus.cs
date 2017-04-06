@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace _2013111300
 {
-    class Bus :clsAbsCarro
+    class Bus : Carro
     {
-        public override TipoBus TipoBus { get; set; }
+        public numTipoBus TipoBus { get; set; }
+        public Bus()
+            : base()
+        {
 
-
+        }
     }
 }

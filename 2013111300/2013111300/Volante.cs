@@ -6,12 +6,18 @@ using System.Threading.Tasks;
 
 namespace _2013111300
 {
-    public class Volante : clsAbsCarro 
+    class Volante
     {
+
+        public string NumSerie { get; set; }
+
+        public Volante(string pnumserie)
+        {
+            NumSerie = pnumserie;
+        }
         public Volante()
         {
-            NumSerie = String.Empty;
+            NumSerie = string.Empty;
         }
-        public override string NumSerie { get; set; }
     }
 }

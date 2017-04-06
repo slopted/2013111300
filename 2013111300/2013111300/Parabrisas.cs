@@ -6,12 +6,17 @@ using System.Threading.Tasks;
 
 namespace _2013111300
 {
-    class Parabrisas : clsAbsCarro
+    class Parabrisas
     {
+        public string NumSerie { get; set; }
+
+        public Parabrisas(String pnumSerie)
+        {
+            NumSerie = pnumSerie;
+        }
         public Parabrisas()
         {
-            NumSerie = String.Empty;
+            NumSerie = string.Empty;
         }
-        public override string NumSerie { get; set; }
     }
 }

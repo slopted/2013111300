@@ -6,14 +6,27 @@ using System.Threading.Tasks;
 
 namespace _2013111300
 {
-    class Propietario :clsAbsCarro
+    class Propietario
     {
-        public override string DNI { get; set; }
+        public string Dni { get; set; }
+        public string Nombres { get; set; }
+        public string Apellidos { get; set; }
+        public string LicenciaConducir { get; set; }
 
-        public override string Nombre { get; set; }
+        public Propietario(string pDni, string pNombre, string pApellidos, string pLicencia)
+        {
+            Dni = pDni;
+            Nombres = pNombre;
+            Apellidos = pApellidos;
+            LicenciaConducir = pLicencia;
+        }
+        public Propietario()
+        {
+            Dni = string.Empty;
+            Nombres = string.Empty;
+            Apellidos = string.Empty;
+            LicenciaConducir = string.Empty;
+        }
 
-        public override string Apellidos { get; set; }
-
-        public override string LicenciaConducir { get; set; }
     }
 }

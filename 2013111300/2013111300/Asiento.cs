@@ -6,12 +6,20 @@ using System.Threading.Tasks;
 
 namespace _2013111300
 {
-    class Asiento : clsAbsCarro
+    class Asiento
     {
+        Cinturon pcinturon;
+
+        public String NumSerie { get; set; }
+
+        public Asiento(String pnumSerie)
+        {
+            pcinturon = new Cinturon();
+            NumSerie = pnumSerie;
+        }
         public Asiento()
         {
-            NumSerie = String.Empty;
+
         }
-        public override string NumSerie { get; set; }
     }
 }

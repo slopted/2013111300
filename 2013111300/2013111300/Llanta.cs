@@ -6,12 +6,19 @@ using System.Threading.Tasks;
 
 namespace _2013111300
 {
-    class Llanta : clsAbsCarro
+    class Llanta
     {
+        public string NumSerie { get; set; }
+
+        public Llanta(String pnumSerie)
+        {
+            NumSerie = pnumSerie;
+        }
+
         public Llanta()
         {
-            NumSerie = String.Empty;
+            NumSerie = string.Empty;
         }
-        public override string NumSerie { get; set; }
     }
 }
+    
