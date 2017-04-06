@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_2013111300.Asiento" Collapsed="true">
+    <Position X="8.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Asiento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2013111300.Bus" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Bus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2013111300.Cinturon" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Cinturon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2013111300.Llanta" Collapsed="true">
+    <Position X="10.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Llanta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2013111300.Parabrisas" Collapsed="true">
+    <Position X="12" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Parabrisas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2013111300.Program" Collapsed="true">
+    <Position X="8.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2013111300.Propietario" Collapsed="true">
+    <Position X="10.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAEAEAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Propietario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2013111300.Volante" Collapsed="true">
+    <Position X="12" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Volante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2013111300.Automovil" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Automovil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2013111300.clsAbsCarro" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAABAAAEQQEAAAAABAA=</HashCode>
+      <FileName>clsAbsCarro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="_2013111300.TipoAuto" Collapsed="true">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAABAgAAAECAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TipoAuto.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="_2013111300.TipoBus" Collapsed="true">
+    <Position X="10.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAUAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TipoBus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="_2013111300.TipoCarro" Collapsed="true">
+    <Position X="12" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TipoCarro.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Asiento.cs" />
+    <Compile Include="Automovil.cs" />
     <Compile Include="Bus.cs" />
     <Compile Include="Cinturon.cs" />
     <Compile Include="TipoAuto.cs" />
@@ -60,6 +61,8 @@
     <None Include="App.config" />
     <None Include="ClassDiagram1.cd" />
     <None Include="ClassDiagram2.cd" />
+    <None Include="ClassDiagram3.cd" />
+    <None Include="ClassDiagram4.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

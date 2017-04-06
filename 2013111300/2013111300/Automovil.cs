@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace _2013111300
 {
-    class Bus : clsAbsCarro
+    class Automovil : clsAbsCarro
     {
-        public TipoBus TipoBus { get; set; }
-        public Bus()
+        public TipoAuto TipoAuto { get; set; }
+
+
+        public Automovil()
             : base()
         {
 
