@@ -1,0 +1,15 @@
+C:\Users\slopt\OneDrive\Documentos\Visual Studio 2017\Projects\2013111300\2013111300-SLN\2013111300-PER\bin\Debug\2013111300-PER.dll.config
+C:\Users\slopt\OneDrive\Documentos\Visual Studio 2017\Projects\2013111300\2013111300-SLN\2013111300-PER\bin\Debug\2013111300-PER.dll
+C:\Users\slopt\OneDrive\Documentos\Visual Studio 2017\Projects\2013111300\2013111300-SLN\2013111300-PER\bin\Debug\2013111300-PER.pdb
+C:\Users\slopt\OneDrive\Documentos\Visual Studio 2017\Projects\2013111300\2013111300-SLN\2013111300-PER\bin\Debug\2013111300-ENT.dll
+C:\Users\slopt\OneDrive\Documentos\Visual Studio 2017\Projects\2013111300\2013111300-SLN\2013111300-PER\bin\Debug\EntityFramework.dll
+C:\Users\slopt\OneDrive\Documentos\Visual Studio 2017\Projects\2013111300\2013111300-SLN\2013111300-PER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\slopt\OneDrive\Documentos\Visual Studio 2017\Projects\2013111300\2013111300-SLN\2013111300-PER\bin\Debug\2013111300-ENT.pdb
+C:\Users\slopt\OneDrive\Documentos\Visual Studio 2017\Projects\2013111300\2013111300-SLN\2013111300-PER\bin\Debug\EntityFramework.xml
+C:\Users\slopt\OneDrive\Documentos\Visual Studio 2017\Projects\2013111300\2013111300-SLN\2013111300-PER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\slopt\OneDrive\Documentos\Visual Studio 2017\Projects\2013111300\2013111300-SLN\2013111300-PER\obj\Debug\2013111300-PER.csprojResolveAssemblyReference.cache
+C:\Users\slopt\OneDrive\Documentos\Visual Studio 2017\Projects\2013111300\2013111300-SLN\2013111300-PER\obj\Debug\_2013111300_PER.Migrations.AddInitialModel.resources
+C:\Users\slopt\OneDrive\Documentos\Visual Studio 2017\Projects\2013111300\2013111300-SLN\2013111300-PER\obj\Debug\_2013111300_PER.Migrations.SecondModel.resources
+C:\Users\slopt\OneDrive\Documentos\Visual Studio 2017\Projects\2013111300\2013111300-SLN\2013111300-PER\obj\Debug\2013111300-PER.csproj.GenerateResource.Cache
+C:\Users\slopt\OneDrive\Documentos\Visual Studio 2017\Projects\2013111300\2013111300-SLN\2013111300-PER\obj\Debug\2013111300-PER.dll
+C:\Users\slopt\OneDrive\Documentos\Visual Studio 2017\Projects\2013111300\2013111300-SLN\2013111300-PER\obj\Debug\2013111300-PER.pdb

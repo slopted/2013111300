@@ -1,0 +1,15 @@
+D:\Gerson\Carpetas de Escritorio\2013111300\2013111300-SLN\2013111300-PER\bin\Debug\2013111300-PER.dll.config
+D:\Gerson\Carpetas de Escritorio\2013111300\2013111300-SLN\2013111300-PER\bin\Debug\2013111300-PER.dll
+D:\Gerson\Carpetas de Escritorio\2013111300\2013111300-SLN\2013111300-PER\bin\Debug\2013111300-PER.pdb
+D:\Gerson\Carpetas de Escritorio\2013111300\2013111300-SLN\2013111300-PER\bin\Debug\2013111300-ENT.dll
+D:\Gerson\Carpetas de Escritorio\2013111300\2013111300-SLN\2013111300-PER\bin\Debug\EntityFramework.dll
+D:\Gerson\Carpetas de Escritorio\2013111300\2013111300-SLN\2013111300-PER\bin\Debug\EntityFramework.SqlServer.dll
+D:\Gerson\Carpetas de Escritorio\2013111300\2013111300-SLN\2013111300-PER\bin\Debug\2013111300-ENT.pdb
+D:\Gerson\Carpetas de Escritorio\2013111300\2013111300-SLN\2013111300-PER\bin\Debug\EntityFramework.xml
+D:\Gerson\Carpetas de Escritorio\2013111300\2013111300-SLN\2013111300-PER\bin\Debug\EntityFramework.SqlServer.xml
+D:\Gerson\Carpetas de Escritorio\2013111300\2013111300-SLN\2013111300-PER\obj\Debug\2013111300-PER.csprojResolveAssemblyReference.cache
+D:\Gerson\Carpetas de Escritorio\2013111300\2013111300-SLN\2013111300-PER\obj\Debug\_2013111300_PER.Migrations.AddInitialModel.resources
+D:\Gerson\Carpetas de Escritorio\2013111300\2013111300-SLN\2013111300-PER\obj\Debug\2013111300-PER.csproj.GenerateResource.Cache
+D:\Gerson\Carpetas de Escritorio\2013111300\2013111300-SLN\2013111300-PER\obj\Debug\2013111300-PER.dll
+D:\Gerson\Carpetas de Escritorio\2013111300\2013111300-SLN\2013111300-PER\obj\Debug\2013111300-PER.pdb
+D:\Gerson\Carpetas de Escritorio\2013111300\2013111300-SLN\2013111300-PER\obj\Debug\_2013111300_PER.Migrations.SecondModel.resources
